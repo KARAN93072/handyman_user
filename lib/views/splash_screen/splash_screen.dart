@@ -3,7 +3,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:go_router/go_router.dart';
 import 'package:structure/const/app_info.dart';
 import 'package:structure/const/spacing.dart';
-import 'package:structure/typography.dart';
+import 'package:structure/const/typography.dart';
 import 'package:structure/views/auth_screen/sign_in/sign_in.dart';
 
 class SplashScreen extends StatelessWidget {
